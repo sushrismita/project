@@ -1,0 +1,2 @@
+module candidate_exercise {
+}
